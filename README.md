@@ -33,8 +33,7 @@
 - [x] 对日志发送处理器的实现
 - [x] 简化数据点的注解属性配置
 - [ ] 项目中的JavaDoc文档
-- [ ] 代码结构符合公司代码编码规范
-- [ ] 代码Review
+- [ ] 代码结构符合代码编码规范
 - [x] 性能和功能测试
 
 ## 快速使用
@@ -42,11 +41,10 @@
 ### 项目拉取
 
 项目放在Github中,首先拉取项目到本地
-> https://inspirationgit.onluxy.com/backend/behavior-data-tracker
+> https://github.com/iWzl/BehaviorDataTracker
 
 ```shell
-git clone git@inspirationgit.onluxy.com:backend/behavior-data-tracker.git
-git clone https://inspirationgit.onluxy.com/backend/behavior-data-tracker.git
+git clone https://github.com/iWzl/BehaviorDataTracker.git
 ```
 
 完成项目拉取后,在项目根目录执行
